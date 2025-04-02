@@ -1,0 +1,21 @@
+{
+  "start_time": "2025-03-30 23:56:50",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "im karl",
+      "gemini_feedback": "Karl, thanks for your response.  While I appreciate the introduction, it's a bit brief. In an interview setting, it's helpful to provide more context and demonstrate your communication skills.  For example, if the question was \"Tell me about yourself,\" a more effective answer might include your background, relevant skills, and career aspirations. Could you elaborate a bit more on what you'd like to share?\n"
+    },
+    {
+      "question": "Why are you interested in this role?",
+      "answer": "i like coding",
+      "gemini_feedback": "\"I appreciate your enthusiasm for coding.  However, to get a better understanding of your skills and experience, could you tell me more specifically what you enjoy about coding? For example, what types of projects have you worked on? What programming languages are you proficient in? What aspects of software development do you find most engaging? Providing concrete examples will help me gauge your experience and passion.\"\n"
+    },
+    {
+      "question": "Describe a challenge you've overcome.",
+      "answer": "because i like coding",
+      "gemini_feedback": "\"I appreciate your enthusiasm!  While liking coding is a great starting point, it would be beneficial to expand on that.  Interviewers are looking for specific examples and insights. Could you tell me more about *what* you enjoy about coding?  Perhaps you enjoy problem-solving, the creative aspect of building something new, or the logic involved. Sharing a specific project or experience where you felt this enjoyment would also strengthen your answer and demonstrate your passion more concretely.\"\n"
+    }
+  ],
+  "end_time": "2025-03-30 23:57:36"
+}
